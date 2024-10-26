@@ -1,1 +1,1 @@
-# NLP_Project - Extracting Key Insights from Financial Text: A Summarization Approach
+# Extracting Key Insights from Financial Text: A Summarization Approach
